@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: bisque;
+    width: 1200px;
+    
+    margin: auto;
+    padding: 0 20px;
+}
+
+.header {
+    background-color: cadetblue;
+    width: 400px;
+    margin: auto;
+}
+
+.main {
+    background-color: coral;
+    width: 500px;
+    margin: auto;
+}
+
+.footer {
+    background-color: forestgreen;
+    width: 600px;
+    margin: auto;
+    
+}
