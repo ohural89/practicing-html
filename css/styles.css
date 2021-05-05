@@ -2,6 +2,10 @@ body {
     margin: 0;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 h1,
 h2,
 h3,
@@ -30,13 +34,15 @@ p {
     background-color: cadetblue;
     width: 100%;
     position: fixed;
+    top: 0;
+    left: 0;
     z-index: 10;
     z-index: 100000;
     margin: auto;
 }
 
 .button {
-    
+
 }
 
 .main {
