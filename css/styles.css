@@ -48,15 +48,15 @@ p {
 .main {
     background-color: coral;
     position: absolute;
-    padding-top: 90px;
+    padding-top: 150px;
     width: 1000px;
     margin: auto;
 }
 
 .footer {
-    
     background-color: forestgreen;
     width: 1100px;
     margin: auto;
+    padding-top: 200px;
     
 }
