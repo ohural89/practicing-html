@@ -5,8 +5,32 @@
     margin: 50px;
     padding: 30px;
 }
+/* ##### main-page-lessons-links ##### */
+
+.main-page-lessons-links {
+    display: flex;
+}
+
+.main-page-lessons-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: -30px;
+    margin-left: -30px;
+}
+
+.main-page-lessons-items {
+    margin-top: 30px;
+    margin-left: 30px;
+
+    flex-basis: calc((100% / 4) - 30px);
+}
 
 
+
+/* ##### END of main-page-lessons-links ##### */
 
 .lorem-text-style-one {
     text-align: center;

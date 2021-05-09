@@ -78,7 +78,7 @@ ul {
 .header {
     background-color: rgb(126, 204, 206);
     width: 100%;
-    position: fixed;
+    position: relative;
     top: 0;
     left: 0;
     z-index: 10;
