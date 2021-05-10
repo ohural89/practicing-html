@@ -120,3 +120,27 @@ ul {
     width: 800px;
     border: 5px solid rgb(0, 208, 255);
 }
+
+
+
+
+
+
+    /*  for scss
+    . container {
+        padding-left: 15px;
+        padding-right: 15px;
+        margin-left: auto;
+        margin-right: auto;
+
+        @media screen and (min-width: 480px) {
+            width: 480px;
+        }
+        @media screen and (min-width: 768px) {
+            width: 768px;
+        }
+        @media screen and (min-width: 1140px) {
+            width: 1140px;
+        }
+    }
+    */
